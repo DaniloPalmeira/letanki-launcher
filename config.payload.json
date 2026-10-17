@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "minLauncher": "0.1.0",
+  "play": "https://play.letanki.com/",
+  "resources": "https://res.letanki.com",
+  "servers": ["play.letanki.com"],
+  "allowHosts": ["play.letanki.com"],
+  "discord": { "clientId": "1548545117386833980", "site": "www.letanki.com", "url": "https://www.letanki.com" },
+  "updateEndpoints": [
+    "https://github.com/DaniloPalmeira/letanki-launcher/releases/latest/download/latest.json",
+    "https://res.letanki.com/launcher/latest.json"
+  ]
+}

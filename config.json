@@ -1,0 +1,4 @@
+{
+  "payload": "{\n  \"version\": 1,\n  \"minLauncher\": \"0.1.0\",\n  \"play\": \"https://play.letanki.com/\",\n  \"resources\": \"https://res.letanki.com\",\n  \"servers\": [\"play.letanki.com\"],\n  \"allowHosts\": [\"play.letanki.com\"],\n  \"discord\": { \"clientId\": \"1548545117386833980\", \"site\": \"www.letanki.com\", \"url\": \"https://www.letanki.com\" },\n  \"updateEndpoints\": [\n    \"https://github.com/DaniloPalmeira/letanki-launcher/releases/latest/download/latest.json\",\n    \"https://res.letanki.com/launcher/latest.json\"\n  ]\n}",
+  "signature": "9vjlDuA3nURhQ21qB7ymRHs//OqHuKkIW8s90vg+WBM7XCJFpCWAqmPWZCj3MWh1JkSowmRX6cUI++TVLqX/Dw=="
+}
